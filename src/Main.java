@@ -1,4 +1,4 @@
-public class Account_add {
+public class Main {
     public static void main(String[] args) {
 
         int Clientaccount = 100; // Сумма на счете клиента
